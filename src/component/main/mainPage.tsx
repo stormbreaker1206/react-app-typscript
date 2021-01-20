@@ -12,9 +12,9 @@ export function Message({welcome}: MessageProps) {
         <div className="App">
             <header className="App-header">
 
-                <p>
+                <h1>
                     {welcome}
-                </p>
+                </h1>
 
             </header>
         </div>
